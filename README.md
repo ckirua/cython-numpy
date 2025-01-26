@@ -1,2 +1,2 @@
-# cRound
-Rounding functions implemented in Cython
+# cython-numpy
+Cython package that uses numpy.
